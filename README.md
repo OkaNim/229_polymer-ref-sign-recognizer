@@ -13,7 +13,6 @@ import src_229_recognize_polymer_refsign_240426 as src_229<br>
 toks = ["in", "polystyrene-block-poly", '(', "ethylene", "oxide", ')', '(', "PS-b-PEO", ')', "bottlebrush", "block", "copolymers", '(', "BBCP", ')', "upon", "The", "BBCPs", "are", "soluble", "in", "organic", "solvents", "."]<br>
 <br>
 pos_tags = ["IN", "NN", "-LRB-", "NN", "NN", "-RRB-", "-LRB-", "NN", "-RRB-", "NN", "NN", "NNS", "-LRB-", "NN", "-RRB-", "IN", "DT", "NNS", "VBP", "JJ", "IN", "JJ", "NNS", "."]<br>
-# It is necessary to recognize pos_tags in advance using Stanford Core NLP.<br>
 <br>
 <br>
 refsign_tags, refsign_abbs = src_229.main(toks, pos_tags)<br>
@@ -29,10 +28,7 @@ print("\nrefsign_abbs\n", refsign_abbs)<br>
 print("\n\n")<br>
 -------------------<br>
 <br>
-After running, the results will be printed on screen as follow:<br>
-<br>
-toks<br>
- ['in', 'polystyrene-block-poly', '(', 'ethylene', 'oxide', ')', '(', 'PS-b-PEO', ')', 'bottlebrush', 'block', 'copolymers', '(', 'BBCP', ')', 'upon', 'The', 'BBCPs', 'are', 'soluble', 'in', 'organic', 'solvents', '.']<br>
+After running, the results will be outputted with the BIOES tags as follow:<br>
 <br>
 refsign_tags<br>
  ['O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'B', 'E', 'O', 'O', 'O', 'O', 'O', 'O']<br>
