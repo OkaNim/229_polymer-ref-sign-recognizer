@@ -32,20 +32,15 @@ print("\n\n")<br>
 -------------------<br>
 <br>
 The results are outputted with the BIOES tags.<br>
-<br>
 refsign_tags<br>
  ['O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'B', 'E', 'O', 'O', 'O', 'O', 'O', 'O']<br>
 <br>
-<br>
 The abbreviations for referring signs will be also outputtes as follow: <br>
-<br>
 refsign_abbs<br>
  {'BBCP': 'bottlebrush block copolymers'}<br>
 <br>
-<br>
 Polymer name recogonition is also included in 229_test.py. <br>
 The results are outputted with the BIOES tags.<br>
-<br>
 polymer_tags<br>
  ['O', 'B', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'O']<br>
 <br>
