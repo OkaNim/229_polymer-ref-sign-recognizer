@@ -3,7 +3,7 @@
 <br>
 <br>
 ## How to use
-Please create the script such as 229_test.py in /src and run.<br>
+Please create the script such as 229_test.py in /src and run it after moving to /src.<br>
 ```
 python 229_test.py
 ```
@@ -31,7 +31,7 @@ print("\nrefsign_abbs\n", refsign_abbs)<br>
 print("\n\n")<br>
 -------------------<br>
 <br>
-The BIOES tags are outputted as follow:<br>
+The BIOES tags are outputted for every token as follow:<br>
 refsign_tags<br>
  ['O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'B', 'E', 'O', 'O', 'O', 'O', 'O', 'O']<br>
 <br>
@@ -40,7 +40,7 @@ refsign_abbs<br>
  {'BBCP': 'bottlebrush block copolymers'}<br>
 <br>
 Polymer name recogonition is also included in 229_test.py. <br>
-The BIOES tags are outputted as follow:<br>
+The BIOES tags are outputted for every token as follow:<br>
 polymer_tags<br>
  ['O', 'B', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'S', 'O', 'O', 'O', 'O', 'O', 'O']<br>
 <br>
