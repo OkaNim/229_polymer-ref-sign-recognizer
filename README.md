@@ -46,6 +46,6 @@ polymer_tags<br>
 <br>
 <br>
 The tokenized text (toks) and the POS tags (pos_tags) are necessary.<br>
-The POS tags should be obtained using Stanford Core NLP.<br>
+The POS tags should be obtained using Stanford Core NLP(https://stanfordnlp.github.io/CoreNLP/).<br>
 <br>
 <br>
