@@ -3,11 +3,9 @@
 <br>
 <br>
 ## How to use
-Please run 229_test.py in /src without moving out of the folder.<br>
+Please create the script such as 229_test.py and run.<br>
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+python 229_test.py
 ```
 <br>
 ----- 229_test.py -----<br>
