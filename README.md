@@ -4,6 +4,11 @@
 <br>
 ## How to use
 Please run 229_test.py in /src without moving out of the folder.<br>
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 <br>
 ----- 229_test.py -----<br>
 import src_039_recognize_polymer_name_240426 as src_039<br>
