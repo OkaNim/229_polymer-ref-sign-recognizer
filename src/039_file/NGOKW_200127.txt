@@ -1,0 +1,191 @@
+0_NG_PVA_etc	1_NG_poly()	2_OK_doped_etc	3_OK	4_OK_PP_etc	5_OK_copolymer_plastic_resin
+.*APPEND.*	.*polymer.*	.+.ed	polyethylene oxide	PA[0-9]*	acrylonitrile-butadiene
+.*B3LYP.*	.*polyadd.*	.+ied	polyethylene terephthalate	PB[0-9]*	acrylonitrile-butadiene-acrylate
+.*DFP	.*polyceramic.*	.*cyclic	polymethyl methacrylate	PC[0-9]*	acrylonitrile-butadiene-styrene
+.*POLYM.*	.*polyconde.*	commercial	polyvinyl acetate	PE[0-9]*	acrylonitrile-chlorinated polyethylene-styrene
+.*TSPc	.*polydisp.*	pure	polyvinyl alcohol	PI[0-9]*	acrylonitrile-(ethylene-propylene-diene)-styrene
+.*type.*	.*polyelec.*	pristine	polyvinyl chloride	PP[0-9]*	acrylonitrile-methyl methacrylate
+.-P	.*polyion.*	biodegradable	polyvinylidene chloride	PS[0-9]*	acrylonitrile-styrene-acrylate
+.{0,1}SORPTION	.*polymeriz.*	isotactic	polyvinylidene fluoride	ABA[0-9]*	cycloolefin
+207Pb.*	.*polymole.*	syndiotactic	polyvinyl fluoride	ABAK	ethylene-acrylic acid
+31P.*	.*polymorphi.*	atactic	polyacrylic acid	ABS	ethylene-butyl acrylate
+4VP	.*polynucl.*		polyaryl amide	AEPDS	ethylene-ethyl acrylate
+AMORPHOUS	.*polypept.*		polybutyl acrylate	AMMA	ethylene-methacrylic acid
+APCN	.*polyphase		polybutylene naphthalate	ASA	ethylen-propylene
+APPLIED	.*polyphosphor.*		polybutylene terephthalate	COC	ethylene-tetrafluoroethylene
+(A|K|Na)PS	.*polyrecom.*		polycyclohexylene dimethylene terephthalate	EAA	ethylene-vinyl acetate
+APTES	.*polysome		polydiallyl phthalate	EBA	ethylene-vinyl alcohol
+ATRP.*	.*polym		polyethylene naphthalate	EBAK	perfluoro(ethylene-propylene)
+AlPc	.*polyblen.*		polyphenylene ether	EEAK	methyl methacrylate-acrylonitrile-butadiene-styrene
+AuPPh3Cl	.*polychelat.*		polypropylene oxide	EMA	methyl methacrylate-butadiene-styrene
+Az-DAP	.*polystyrene-calibrated		polyphenylene sulfide	E/P	styrene-acrylonitrile
+BCP	.*polyacid.*		polyphenylene sulfone	ETFE	styrene-butadiene
+BPDA	.*polyene.*		polytrimethylene terephthalate	EVA	styrene-maleic anhydride
+BPO	.*polysaccharide.*		polyvinyl butyral	EVOH	styrene-alpha-methylstyrene
+BaTiO3P	.*polyolefin.*		polyvinyl formal	FEP	ethylene-vinyl chloride
+C60	biopolyester.*		cellulose acetate	MABS	vinyl chloride-ethylene-methyl acrylate
+CAB	.*polynomial		cellulose acetate butylate	MBS	vinyl chloride-ethylene-vinyl acetate
+CAN	.*polyhedr.*		cellulose acetate propionate	SAN	vinyl chloride-methyl acrylate
+CAPACITY	.*polycounter.*		cellulose formaldehyde	SBR	vinyl chloride-methyl methacrylate
+CIRPAN	.*polymsci.*		carboxymethyl cellulose	SMA	vinyl chloride-octyl acrylate
+CO2	.*ppolydentat.*		cellulose nitrate	SMAH	vinyl chloride-vinyl acetate
+COMPACT	.*ppolystyrene-ionic		ethyl cellulose	SMS	vinyl chloride-vinylidene chloride
+COMPOSITES	.*ppolyphasic.*		methyl cellulose	VCE	cresol-formaldehyde
+COPOLYME.*	Photopolym		PHBdiol	VCEMAK	casein-formaldehyde
+CP[A-Z]{0,2}	Polym.Prepr.		PHB-diol	VCEVAC	epoxy
+CRP	.*polyplex.*		Nafion	VCMAK	furan-formaldehyde
+CRYSTAL.*	.*polyassociat.*		Cellulose	VCMMA	melamine-formaldehyde
+C[0-9]*H[0-9]*.*P.*	.*polybenzenoid		cellulose	VCOAK	melamine-phenol-formaldehyde
+N[0-9]*O[0-9]*P.*	.*polycycli.*		Chitin	VCVAC	phenol-formaldehyde
+Cp3Ln	cpolycrystal.*		chitin	VCVDC	perfluoroalkoxylalkane
+DAP	.*polyanion.*		Chitosan	CSF	urea-formaldehyde
+DCNP	.*polycation.*		chitosan	MPF	unsaturated polyester
+DCP	.*polysilicon.*			PFA	vinyl ester
+DCp.*	polysilsesquioxane.*			CAB	
+DEAP	.*polychlorin.*			CAP	
+DHEXP	.*polyunsaturat.*			CEF	
+DIPEA	.*polyatom.*			CMC	
+DMAP	.*polyaroma.*			CTA	
+DMPA	.*polyprotein.*				
+DPD-?.*	.*polyvalent.*				
+DPE	.*polytopic.*				
+DPI	.*polybasic.*				
+DPM-?.?	.*polybase.*				
+DPX-?[0-9]+	.*polyphilic.*				
+DynaPro	.*polyradical.*				
+ECOPOL	.*polyzwitter.*				
+EMPART	.*polygonal.*				
+EPR-?.{0,3}	.*polyampholyt.*				
+EXPANSION	.*polyprotic.*				
+EXPERI.*	.*polyproton.*				
+Epa.*	.*polyborylat.*				
+FFPA	.*polyheterocycle.*				
+GIUSEPPE	.*polytyp.*				
+GNPs	.*polytypic.*				
+.+-GPC	.*polyketide.*				
+GPC.{0,3}	.*polyhalogen.*				
+GPC-.+	.*polygon.*				
+GPO	.*poly.*-based				
+GVOP/3	.*polyconjugat.*				
+HFIP	.*poly-radical.*				
+HPLC-?.*	.*polyheterotopic.*				
+HRP	.*polyfluorinat.*				
+ICP-?.*	.*polyol				
+IMP.*					
+JCPDS					
+JPC					
+JSPS					
+[A-Z]?-?Phe					
+LAMMPS					
+LESPINASSE					
+LPR					
+(M|m)-?CPBA					
+M4VP					
+MDPD					
+MORPHOLOGY					
+MSP					
+N-PhMI.*					
+NANOPARTICLES					
+NCOP					
+NIPAM					
+NMEP					
+NMP.*					
+NPhMI.*					
+NPs?					
+NVP					
+OPL.*					
+OPTICALLY					
+P					
+P-.					
+P(d|t)/C					
+P(d|t)-C					
+P([0-9]|[a-z]|/){3,4}					
+P[0-9]?O[0-9]?					
+P[0-9]?H[0-9]?					
+P[0-9]?Cl[0-9]?					
+P[0-9]?Br[0-9]?					
+P[0-9]?F[0-9]?					
+PPh3					
+.{3,4}PF6					
+POH					
+PANG					
+PAPER					
+PARÍS					
+PBS					
+PCSA					
+PC[0-9]{0,2}BM					
+PDIs?					
+PFG-NMR					
+PHOTO-CROSSLINKED					
+PHYSICS					
+PILs?					
+PIZARRO					
+PJF					
+PL					
+PL-?[A-Z]{0,3}					
+POLYTECHNIC					
+POSS?					
+PREPARATION					
+PRESS.*					
+PROCEDURE					
+PROFILE					
+PTSA					
+PUBLICATIONS					
+Pb.*					
+Pd.*					
+Zn.*TPP					
+PhD					
+PhMA					
+PolymPhys					
+REPORTS?					
+ROMP					
+ROP					
+RTESPE7					
+Rep.					
+SPA[0-9]{0,3}					
+SPE.*					
+SPIE					
+SPS-800					
+STEPHAN					
+SUPRAMOLECULAR					
+SVA					
+SiO2-Pd					
+TBAP					
+TBHP					
+TEMPERATURE					
+TEMPO					
+TEMPO-NH2					
+TEMPO-OH					
+TEMPOnium					
+TIPA					
+TIPS					
+TJTTP-OECF					
+TOPAS					
+TOPPARE2					
+TPA					
+TPCA					
+TPE-NC					
+TPM-K					
+TPMA					
+TPPM					
+VMP2					
+VMP3					
+VPO					
+VSP					
+XPCS					
+XPS					
+XPS-.{0,3}					
+XchP2					
+[0-9]*m/Pa					
+[0-9]*(k|K|M|G)Pa					
+aAB					
+eXPRESS					
+hP2.*					
+lAPTmax					
+odd-even					
+pH.*					
+t-Bu-P4					
+t-CNC-COOH.					
+α					
+χABN					
+ϕP0					
