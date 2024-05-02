@@ -1,4 +1,3 @@
-# Polymer referring sign recognizer
 'the film' や 'the membrane' などのポリマーの指示表現を自動認識します。<br>
 <br>
 <br>
