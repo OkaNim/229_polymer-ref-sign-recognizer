@@ -27,8 +27,8 @@ print("\n\n")<br>
 <br>
 The BIOES tags are outputted for every token as follow:<br>
 ```
-refsign_tags<br>
- ['O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'B', 'E', 'O', 'O', 'O', 'O', 'O', 'O']<br>
+refsign_tags
+ ['O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'E', 'O', 'S', 'O', 'O', 'B', 'E', 'O', 'O', 'O', 'O', 'O', 'O']
 ```
 <br>
 The abbreviations for referring signs are also outputted as follow:<br>
