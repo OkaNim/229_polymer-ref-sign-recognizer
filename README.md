@@ -1,4 +1,4 @@
-'the film' や 'the membrane' などのポリマーの指示表現を自動認識します。<br>
+Polymer referring signs such as 'the film' and 'the membrane' can be recognized.<br>
 <br>
 <br>
 ## How to use
@@ -10,9 +10,10 @@ python 229_test.py
 ----- 229_test.py -----<br>
 import src_229_recognize_polymer_refsign_240426 as src_229<br>
 <br>
+<br>
 toks = ["in", "polystyrene-block-poly", '(', "ethylene", "oxide", ')', '(', "PS-b-PEO", ')', "bottlebrush", "block", "copolymers", '(', "BBCP", ')', "upon", "The", "BBCPs", "are", "soluble", "in", "organic", "solvents", "."]<br>
 <br>
-pos_tags = ["IN", "NN", "-LRB-", "NN", "NN", "-RRB-", "-LRB-", "NN", "-RRB-", "NN", "NN", "NNS", "-LRB-", "NN", "-RRB-", "IN", "DT", "NNS", "VBP", "JJ", "IN", "JJ", "NNS", "."]
+pos_tags = ["IN", "NN", "-LRB-", "NN", "NN", "-RRB-", "-LRB-", "NN", "-RRB-", "NN", "NN", "NNS", "-LRB-", "NN", "-RRB-", "IN", "DT", "NNS", "VBP", "JJ", "IN", "JJ", "NNS", "."]<br>
 """ It is necessary to obtain pos_tags in advance using Stanford Core NLP. """<br>
 <br>
 <br>
