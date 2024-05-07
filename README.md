@@ -1,4 +1,4 @@
-Polymer referring signs such as 'the film' and 'the membrane' can be recognized.<br>
+Polymer referring signs such as 'the film' and 'the membrane' in text can be recognized.<br>
 <br>
 <br>
 ## How to use
