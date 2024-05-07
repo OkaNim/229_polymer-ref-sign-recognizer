@@ -2,7 +2,7 @@ Polymer referring signs such as 'the film' and 'the membrane' can be recognized.
 <br>
 <br>
 ## How to use
-Please create the script such as 229_test.py in /src and run.<br>
+After downloading the source codes, please create the script such as 229_test.py in /src and run.<br>
 ```
 python 229_test.py
 ```
